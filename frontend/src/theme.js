@@ -10,4 +10,3 @@ const theme = createTheme({
 });
 
 export default theme;
-// AIzaSyAFWX6nuZwBs9qor8MrXZDXl8ZFyAc7TOk
