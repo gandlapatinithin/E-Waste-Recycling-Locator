@@ -11,7 +11,7 @@ const defaultCenter = { lat: 17.3850, lng: 78.4867 }; // Default: Hyderabad
 
 const MapComponent = () => {
     const { isLoaded, loadError } = useLoadScript({
-        googleMapsApiKey: "AIzaSyAFWX6nuZwBs9qor8MrXZDXl8ZFyAc7TOk",
+        googleMapsApiKey: "API KEY",
     });
 
     const [userLocation, setUserLocation] = useState(null);
